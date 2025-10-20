@@ -45,4 +45,4 @@ You are free to use, modify, and share the code **for academic, research, and pe
 
 If you use this code in your research, please cite the associated manuscript:
 
-Hemshorn de Sanchez, et al., (2025). Sensitivities of mean and extreme streamflow to climate variability across Europe. **Preprint**, under open review. DOI: [10.XXXX/zenodo.XXXXXXX](https://doi.org/10.XXXX/zenodo.XXXXXXX)
+Hemshorn de Sanchez, et al., (2025). Sensitivities of mean and extreme streamflow to climate variability across Europe. **Preprint**, under open review. DOI: [10.5281/zenodo.17400699](https://doi.org/10.5281/zenodo.17400699)
