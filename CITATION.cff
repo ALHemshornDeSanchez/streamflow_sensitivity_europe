@@ -1,0 +1,14 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+title: "Initial Release for the Manuscript Submission: Sensitivities of mean and extreme streamflow to climate variability across Europe"
+authors:
+  - family-names: Hemshorn de Sánchez
+    given-names: Anna Luisa
+    affiliation: Vrije Universiteit Amsterdam & Deltares
+    orcid: https://orcid.org/0000-0003-2974-2406  
+version: "1.0.0"
+doi: "10.5281/zenodo.17400699"
+date-released: 2025-10-20   
+url: "https://github.com/ALHemshornDeSanchez/streamflow_sensitivity_europe"
+type: software
+license: MIT License with Commons Clause Restriction
