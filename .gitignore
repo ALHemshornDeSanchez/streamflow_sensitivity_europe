@@ -1,0 +1,57 @@
+# Ignore output data and figures
+data/processed/00_method/*
+data/processed/01_selection/*
+!data/processed/01_selection/.gitkeep
+data/processed/02_temporal_stats/*
+!data/processed/02_temporal_stats/.gitkeep
+!data/processed/02_temporal_stats/01_monthly/.gitkeep
+!data/processed/02_temporal_stats/02_hyearly/.gitkeep
+!data/processed/02_temporal_stats/03_seasonal/.gitkeep
+data/processed/03_sensitivities/*
+!data/processed/03_sensitivities/.gitkeep
+!data/processed/03_sensitivities/01_hyearly/.gitkeep
+!data/processed/03_sensitivities/02_seasonal/.gitkeep
+data/processed/04_directional_stats/*
+!data/processed/04_directional_stats/.gitkeep
+figures/00_method/*
+figures/01_selection/*
+!figures/01_selection/.gitkeep
+figures/02_temporal_stats/*
+!figures/02_temporal_stats/.gitkeep
+!figures/02_temporal_stats/01_hyearly/.gitkeep
+!figures/02_temporal_stats/02_seasonal/.gitkeep
+figures/03_sensitivities/*
+!figures/03_sensitivities/.gitkeep
+!figures/03_sensitivities/01_hyearly/.gitkeep
+!figures/03_sensitivities/01_hyearly/joint/.gitkeep
+!figures/03_sensitivities/01_hyearly/kde/.gitkeep
+!figures/03_sensitivities/01_hyearly/maps/.gitkeep
+!figures/03_sensitivities/01_hyearly/r2/.gitkeep
+!figures/03_sensitivities/01_hyearly/scatters/.gitkeep
+!figures/03_sensitivities/02_seasonal/.gitkeep
+!figures/03_sensitivities/02_seasonal/joint/.gitkeep
+!figures/03_sensitivities/02_seasonal/kde/.gitkeep
+!figures/03_sensitivities/02_seasonal/maps/.gitkeep
+!figures/03_sensitivities/02_seasonal/seasonality/.gitkeep
+figures/04_attribution/*
+!figures/04_attribution/.gitkeep
+
+# Ignore messy notebooks
+notebooks/private/
+
+# Jupyter
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Common OS files
+.DS_Store
+Thumbs.db
+
+# Common outputs
+*.png
+
+# Local environment secrets
+.env
