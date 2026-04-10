@@ -1,4 +1,4 @@
-cff-version: 1.1.2
+cff-version: 1.2.1
 title: >-
   Updated Release for the revised Manuscript Submission:
   Sensitivities of mean and extreme streamflow to climate
@@ -15,6 +15,6 @@ identifiers:
     value: 10.5281/zenodo.18678909
 url: >-
   https://github.com/ALHemshornDeSanchez/streamflow_sensitivity_europe
-version: v1.1.2
-date-released: '2026-02-18'
+version: v1.2.1
+date-released: '2026-04-10'
 license-url: "https://github.com/ALHemshornDeSanchez/streamflow_sensitivity_europe/blob/main/LICENSE"
